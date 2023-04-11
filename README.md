@@ -14,4 +14,4 @@
 
 <h3>Project preview</h3>
 
-![](Shop_redux_thunk.gif)
+![](screen.gif)
